@@ -1,2 +1,2 @@
 # INOS-Website
-Domain: (www.restaurant-inos.de/)
+Domain: www.restaurant-inos.de/
