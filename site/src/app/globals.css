@@ -1,3 +1,11 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.inos-bg-blue {
+    background-color: #4966a0;
+}
+
+.inos-text-blue {
+    color: #4966a0;
+}
